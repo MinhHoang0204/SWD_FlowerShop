@@ -1,0 +1,14 @@
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\bin\Debug\net8.0\SWD.FlowerShop.Repos.deps.json
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\bin\Debug\net8.0\SWD.FlowerShop.Repos.runtimeconfig.json
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\bin\Debug\net8.0\SWD.FlowerShop.Repos.dll
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\bin\Debug\net8.0\SWD.FlowerShop.Repos.pdb
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.csproj.AssemblyReference.cache
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.AssemblyInfoInputs.cache
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.AssemblyInfo.cs
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.csproj.CoreCompileInputs.cache
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.dll
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\refint\SWD.FlowerShop.Repos.dll
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.pdb
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\SWD.FlowerShop.Repos.genruntimeconfig.cache
+D:\Desktop\SWD_FlowerShop-\GroupProject\SWD.FlowerShop.Repos\obj\Debug\net8.0\ref\SWD.FlowerShop.Repos.dll

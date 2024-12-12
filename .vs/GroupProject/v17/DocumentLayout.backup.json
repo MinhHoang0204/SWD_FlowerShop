@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D51D12-B200-487B-A7C6-FDDCDAA9391A}|SWD.FlowerShop\\SWD.FlowerShop.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2D51D12-B200-487B-A7C6-FDDCDAA9391A}|SWD.FlowerShop\\SWD.FlowerShop.csproj|solutionrelative:swd.flowershop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D51D12-B200-487B-A7C6-FDDCDAA9391A}|SWD.FlowerShop\\SWD.FlowerShop.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D51D12-B200-487B-A7C6-FDDCDAA9391A}|SWD.FlowerShop\\SWD.FlowerShop.csproj|solutionrelative:swd.flowershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D51D12-B200-487B-A7C6-FDDCDAA9391A}|SWD.FlowerShop\\SWD.FlowerShop.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D51D12-B200-487B-A7C6-FDDCDAA9391A}|SWD.FlowerShop\\SWD.FlowerShop.csproj|solutionrelative:swd.flowershop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop.repos\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|solutionrelative:swd.flowershop.repos\\userrepo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EB20B8-878F-4071-8E24-7931D75F130D}|SWD.FlowerShop.Services\\SWD.FlowerShop.Services.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop.services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EB20B8-878F-4071-8E24-7931D75F130D}|SWD.FlowerShop.Services\\SWD.FlowerShop.Services.csproj|solutionrelative:swd.flowershop.services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EB20B8-878F-4071-8E24-7931D75F130D}|SWD.FlowerShop.Services\\SWD.FlowerShop.Services.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop.services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EB20B8-878F-4071-8E24-7931D75F130D}|SWD.FlowerShop.Services\\SWD.FlowerShop.Services.csproj|solutionrelative:swd.flowershop.services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop.repos\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|solutionrelative:swd.flowershop.repos\\userrepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop.repos\\flowershopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|solutionrelative:swd.flowershop.repos\\flowershopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|d:\\desktop\\swd_flowershop-\\groupproject\\swd.flowershop.repos\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0612D8A5-A3D2-4385-8D10-3F94D6E5157B}|SWD.FlowerShop.Repos\\SWD.FlowerShop.Repos.csproj|solutionrelative:swd.flowershop.repos\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SWD.FlowerShop\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:13:40.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop\\Program.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop\\Program.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop\\Program.cs",
+              "RelativeToolTip": "SWD.FlowerShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:14:20.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop.Services\\UserService\\IUserService.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "SWD.FlowerShop.Services\\UserService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:10:48.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\UserRepo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop.Repos\\UserRepo\\UserRepository.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\UserRepo\\UserRepository.cs",
+              "RelativeToolTip": "SWD.FlowerShop.Repos\\UserRepo\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:09:27.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\UserRepo\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop.Repos\\UserRepo\\IUserRepository.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\UserRepo\\IUserRepository.cs",
+              "RelativeToolTip": "SWD.FlowerShop.Repos\\UserRepo\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:08:33.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop\\appsettings.json",
+              "RelativeDocumentMoniker": "SWD.FlowerShop\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop\\appsettings.json*",
+              "RelativeToolTip": "SWD.FlowerShop\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T10:10:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop.Services\\UserService\\UserService.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "SWD.FlowerShop.Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:11:20.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlowerShopContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\FlowerShopContext.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop.Repos\\FlowerShopContext.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\FlowerShopContext.cs",
+              "RelativeToolTip": "SWD.FlowerShop.Repos\\FlowerShopContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:06:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SWD.FlowerShop.Repos\\Entities\\User.cs",
+              "ToolTip": "D:\\Desktop\\SWD_FlowerShop-\\GroupProject\\SWD.FlowerShop.Repos\\Entities\\User.cs",
+              "RelativeToolTip": "SWD.FlowerShop.Repos\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:19:12.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

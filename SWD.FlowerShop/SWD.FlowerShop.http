@@ -1,0 +1,6 @@
+@SWD.FlowerShop_HostAddress = http://localhost:5298
+
+GET {{SWD.FlowerShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
